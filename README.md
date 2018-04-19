@@ -13,7 +13,7 @@
 > 证券投资基金概述
 
 > 计算部分
-* [计算公式](https://github.com/viola17/fundmngmt/blob/master/calculations.md)
+* [计算公式](calculations.rmd)
 
 
 
